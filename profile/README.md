@@ -22,7 +22,7 @@ Oynatıcıdaki görüntü teknolojilerini kendimiz geliştiriyoruz. Her biri iç
 
 <img src="assets/h-stack.svg" width="100%" alt="Kullandığımız teknolojiler">
 
-<img src="assets/teknolojiler.svg" width="100%" alt="JavaScript, TypeScript, PHP, Python, Dart, HTML, CSS, Svelte, WebSocket, WebRTC, Flutter, Tauri, Firebase, Vite, Node.js, MySQL, Cloudflare, WebGPU, WGSL, PyTorch, FFmpeg">
+<img src="assets/teknolojiler-v2.svg" width="100%" alt="JavaScript, TypeScript, PHP, Python, Dart, HTML, CSS, Svelte, WebSocket, WebRTC, Flutter, Tauri, Rust, Firebase, Vite, Node.js, MySQL, Cloudflare, WebGPU, WGSL, PyTorch, FFmpeg">
 
 <br><br>
 
@@ -48,6 +48,6 @@ Soru, öneri ve hata bildirimleri için Discord sunucumuza katılabilir ya da bi
 
 <br>
 
-<sub>Deokwave kapalı kaynak; sitenin ve oynatıcının kodu burada yok. Tek istisna piksel-atolye: bu sayfadaki görselleri çizen küçük araçlar.</sub>
+<sub>Deokwave kapalı kaynak; sitenin ve oynatıcının kodu burada yok. Tek istisna adı piksel- ile başlayan depolar: bu sayfadaki görselleri çizen küçük araçlar.</sub>
 
 <img src="assets/footer.svg" width="100%" alt="© 2026 Deokwave">
