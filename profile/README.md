@@ -8,7 +8,11 @@
 
 <br>
 
-Deokwave'de Türkçe altyazılı anime izleyebilir, izlediklerini ve listelerini hesabında tutabilirsin. Birlikte İzle odalarında arkadaşlarınla aynı bölümü izleyip sesli konuşmak da mümkün. Site, Windows ve Android uygulamaları aynı hesapla çalışıyor.
+Deokwave, anime izlemekten çok daha fazlasını sunan bir anime ve topluluk platformudur. Türkçe altyazılı anime izleyebilir, kişisel izleme listeleri oluşturabilir ve yeni bölümlerden anında haberdar olabilirsin. Birlikte İzle odalarında arkadaşlarınla eş zamanlı anime izleyip sesli sohbet edebilir, diğer kullanıcılarla mesajlaşabilirsin.
+
+Deokwave'in geliştirdiği görüntü teknolojileriyle animeleri daha yüksek çözünürlükte, daha akıcı ve gelişmiş renk kalitesiyle izleyebilirsin. XP, seviye ve başarım sistemiyle ödüller kazanabilir, profilini kişiselleştirebilir, mini oyunlar oynayabilir ve Türkiye Anime Haritası üzerinden popüler animeleri keşfedebilirsin.
+
+Web, Windows ve Android uygulamaları aynı hesapla çalışır. İzleme geçmişin, listelerin ve hesap bilgilerin cihazlar arasında senkronize edilir.
 
 Oynatıcıdaki görüntü teknolojilerini kendimiz geliştiriyoruz. Her biri için aşağıda ayrı bir depo var, içlerinde kod yok, ne işe yaradıklarını anlatıyorlar.
 
