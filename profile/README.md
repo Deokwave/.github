@@ -8,9 +8,9 @@
 
 <br>
 
-Deokwave, Türkçe altyazılı anime izlemek için geliştirdiğimiz bir platform. Animeleri keşfedebilir, izleme ilerlemeni ve listelerini hesabında tutabilir, Birlikte İzle odalarında arkadaşlarınla aynı bölümü izleyip sesli sohbet edebilirsin. Web sitesi, Android ve Windows uygulamaları aynı hesapla çalışır.
+Deokwave'de Türkçe altyazılı anime izleyebilir, izlediklerini ve listelerini hesabında tutabilirsin. Birlikte İzle odalarında arkadaşlarınla aynı bölümü izleyip sesli konuşmak da mümkün. Site, Windows ve Android uygulamaları aynı hesapla çalışıyor.
 
-Oynatıcının arkasındaki görüntü teknolojilerini de kendimiz geliştiriyoruz.
+Oynatıcıdaki görüntü teknolojilerini kendimiz geliştiriyoruz. Her biri için aşağıda ayrı bir depo var, içlerinde kod yok, ne işe yaradıklarını anlatıyorlar.
 
 <br>
 
@@ -42,7 +42,6 @@ Soru, öneri ve hata bildirimleri için Discord sunucumuza katılabilir ya da bi
 
 <br>
 
-> [!NOTE]
-> Deokwave kapalı kaynaklı bir projedir. Bu hesapta kaynak kod, model veya site dosyası yayımlanmaz; bu depo yalnızca bu sayfanın görsellerini içerir.
+<sub>Deokwave kapalı kaynak. Buradaki depolarda kod yok, sadece tanıtım sayfaları var.</sub>
 
 <img src="assets/footer.svg" width="100%" alt="© 2026 Deokwave">
