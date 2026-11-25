@@ -20,6 +20,12 @@ Oynatıcıdaki görüntü teknolojilerini kendimiz geliştiriyoruz. Her biri iç
 
 <br><br>
 
+<img src="assets/h-stack.svg" width="100%" alt="Kullandığımız teknolojiler">
+
+<img src="assets/stack.svg" width="100%" alt="JavaScript, TypeScript, PHP, Python, Dart, Svelte, Flutter, Tauri, Node.js, MySQL, Cloudflare, WebGPU, PyTorch, FFmpeg">
+
+<br><br>
+
 <img src="assets/h-platform.svg" width="100%" alt="Platformlar">
 
 <div align="center">
