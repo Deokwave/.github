@@ -22,7 +22,7 @@ Oynatıcıdaki görüntü teknolojilerini kendimiz geliştiriyoruz. Her biri iç
 
 <img src="assets/h-stack.svg" width="100%" alt="Kullandığımız teknolojiler">
 
-<img src="assets/stack.svg" width="100%" alt="JavaScript, TypeScript, PHP, Python, Dart, HTML, CSS, Svelte, WebSocket, WebRTC, Flutter, Tauri, Firebase, Vite, Node.js, MySQL, Cloudflare, WebGPU, WGSL, PyTorch, FFmpeg">
+<img src="assets/teknolojiler.svg" width="100%" alt="JavaScript, TypeScript, PHP, Python, Dart, HTML, CSS, Svelte, WebSocket, WebRTC, Flutter, Tauri, Firebase, Vite, Node.js, MySQL, Cloudflare, WebGPU, WGSL, PyTorch, FFmpeg">
 
 <br><br>
 
